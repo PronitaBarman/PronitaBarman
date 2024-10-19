@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pronita</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pronitabarman&label=Profile%20views&color=0e75b6&style=flat" alt="pronitabarman" /> </p>
 
-- 🔭 I’m currently working on **Data Structure & Algorithms**
 
-- 🌱 I’m currently learning **JavaScript, React JS, Node JS, MySQL**
+
+- 🌱 I’m currently learning **Python, Machine learning, Deep learning, NLP, MySQL**
+- 🔭 Tools I am working on ** Power Bi, Excel, Tableau**
 
 - 📫 How to reach me **pronitabarman5@gmail.com**
 
